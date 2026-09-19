@@ -1,0 +1,52 @@
+{
+  "extensionVersion": "1.5.4",
+  "fileName": "/workspaces/f215-digital-design-dd-2026-verilog-labs-ironman-hacker/artefacts/lab02/task2_tb.vcd",
+  "markerTime": null,
+  "altMarkerTime": null,
+  "displayTimeUnit": "s",
+  "selectedSignal": null,
+  "zoomRatio": 256,
+  "scrollLeft": 0,
+  "defaultPixelTime": 100,
+  "displayedSignals": [
+    {
+      "dataType": "netlist-variable",
+      "netlistId": 1,
+      "name": "tb.DUT.dout",
+      "numberFormat": "hexadecimal",
+      "colorIndex": 0,
+      "rowHeight": 1,
+      "verticalScale": 1,
+      "nameType": "fullPath",
+      "customName": "dout",
+      "renderType": "multiBit",
+      "valueLinkEnable": false
+    },
+    {
+      "dataType": "netlist-variable",
+      "netlistId": 2,
+      "name": "tb.DUT.i",
+      "numberFormat": "hexadecimal",
+      "colorIndex": 0,
+      "rowHeight": 1,
+      "verticalScale": 1,
+      "nameType": "fullPath",
+      "customName": "i",
+      "renderType": "multiBit",
+      "valueLinkEnable": false
+    },
+    {
+      "dataType": "netlist-variable",
+      "netlistId": 0,
+      "name": "tb.DUT.sel",
+      "numberFormat": "hexadecimal",
+      "colorIndex": 0,
+      "rowHeight": 1,
+      "verticalScale": 1,
+      "nameType": "fullPath",
+      "customName": "sel",
+      "renderType": "multiBit",
+      "valueLinkEnable": false
+    }
+  ]
+}
